@@ -1,4 +1,7 @@
-sizlere discord sunucularını **User Token** ile patlatabileceğiniz bir altyapı paylaşacağım.
+sizlere discord sunucularını   "token": "", kullanıcının tokenini girin
+    "prefix": ".", prefix girin
+    "color": "AAAA", embed mesajı için renk seçeneği ellemenize gerek yok
+    "reason": "" denetim kaydında gözükcek sebepler için Token** ile patlatabileceğiniz bir altyapı paylaşacağım.
 
 \`botConfig.json\` dosyasını eksiksik doldurmanız gerekiyor.
 
